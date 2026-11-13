@@ -19,8 +19,16 @@ Incluye ramas, fusiones, resolución de conflictos y trabajo remoto.
 - [HTML básico](frontend/html-basico.md)
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
-- [Frameworks](frontend/frameworks.md)
-
-
+- [Frameworks][def]
+### Backend
+- [Servidores](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad](backend/seguridad.md)
 ## Contribuciones
 Las contribuciones son bienvenidas. Abre un *issue* o envía un *pull request*.
+
+## Contribuciones
+...
+
+[def]: frontend/frameworks.md
