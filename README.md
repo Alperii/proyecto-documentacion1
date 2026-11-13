@@ -14,3 +14,9 @@ Incluye ramas, fusiones, resolución de conflictos y trabajo remoto.
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 "> Documento en copnstruccion"
+
+### Backend
+- [Servidores](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad](backend/seguridad.md)
