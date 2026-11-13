@@ -1,0 +1,13 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*~
+*.bak
+
+# Carpeta temporal
+/temp/
+
+# Archivos de logs
+*.log

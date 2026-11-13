@@ -1,0 +1,11 @@
+# Guía Completa de Desarrollo Web
+
+Este proyecto es una guía de documentación técnica sobre desarrollo web.
+Recoge conceptos de frontend, backend, bases de datos y seguridad.
+Está elaborado con Git y GitHub para practicar el control de versiones.
+Incluye ramas, fusiones, resolución de conflictos y trabajo remoto.
+
+**Diego Rodriguez:**
+**11/11/2026:**
+
+## Tabla de contenidos
