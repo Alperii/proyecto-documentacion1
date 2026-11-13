@@ -9,3 +9,7 @@ Incluye ramas, fusiones, resolución de conflictos y trabajo remoto.
 **11/11/2026:**
 
 ## Tabla de contenidos
+### Introducción
+- [¿Qué es el desarrollo web?](introduccion/que-es-desarrollo-web.md)
+- [Historia](introduccion/historia.md)
+- [Tecnologías actuales](introduccion/tecnologias-actuales.md)
