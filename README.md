@@ -20,3 +20,7 @@ Incluye ramas, fusiones, resolución de conflictos y trabajo remoto.
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks](frontend/frameworks.md)
+
+
+## Contribuciones
+Las contribuciones son bienvenidas. Abre un *issue* o envía un *pull request*.
